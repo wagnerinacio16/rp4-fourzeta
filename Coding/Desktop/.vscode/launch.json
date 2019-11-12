@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Login",
+            "request": "launch",
+            "mainClass": "view.Login",
+            "projectName": "com.myapp.jpa2hibernate5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ZetaApplication",
+            "request": "launch",
+            "mainClass": "connection.ZetaApplication",
+            "projectName": "com.myapp.jpa2hibernate5"
+        }
+    ]
+}
